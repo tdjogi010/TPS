@@ -1,0 +1,20 @@
+# v1
+Model with train + pseudo train
+Final mean and std accuracy:  0.88073 0.00141
+Final mean and std accuracy with Threshold:  0.492 0.02135
+
+
+# v2
+Model with train + pseudo train
+Final mean and std accuracy:  0.8841749999999999 0.00162
+Final mean and std accuracy with Threshold:  0.476 0.02728
+
+# v1 ohe (simpler encoding)
+Model with train + pseudo train
+Final mean and std accuracy:  0.87538 0.00171
+Final mean and std accuracy with Threshold:  0.47400000000000003 0.01356
+
+# v2 ohe (simpler encoding)
+Model with train + pseudo train
+Final mean and std accuracy:  0.8857000000000002 0.00113
+Final mean and std accuracy with Threshold:  0.484 0.02245
